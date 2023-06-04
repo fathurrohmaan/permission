@@ -1,2 +1,2 @@
 # permission
-izin dulu
+Izin dulu bang
